@@ -96,6 +96,7 @@ Open your browser and navigate to **`http://localhost:3000`** to see the app in 
 ## 👩‍💻 Developed By
 
 **Karishma Dahale**
+Ayushi makodiya 
 B.Tech – IoT, Cybersecurity & Blockchain
 📍 Indore Institute of Science and Technology
 📧 [karishmadahale574@gmail.com](mailto:karishmadahale574@gmail.com)
